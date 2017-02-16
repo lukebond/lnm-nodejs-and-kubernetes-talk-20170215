@@ -217,4 +217,4 @@ A question I often get asked is:
 
 
 
--> Slides can be found here: [https://github.com/lukebond/lnm-nodejs-and-kubernetes-talk](https://github.com/lukebond/lnm-nodejs-and-kubernetes-talk)
+-> Slides can be found here: [https://github.com/lukebond/lnm-nodejs-and-kubernetes-talk-20170215](https://github.com/lukebond/lnm-nodejs-and-kubernetes-talk-20170215)
